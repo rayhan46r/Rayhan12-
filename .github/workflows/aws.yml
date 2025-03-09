@@ -111,6 +111,3 @@ jobs:
     ...
     "environmentVariables": {
       "MYSQL_PASSWORD": "@mySecretPassword"
-    },
-    ...
-}https://github.com/rayhan46r/rayhan46r.gitapify secrets add mySecretPassword pwd1234
